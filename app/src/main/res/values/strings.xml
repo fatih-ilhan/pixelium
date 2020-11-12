@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pixelium</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_child_lock_screen">ChildLockScreen</string>
+    <string name="title_activity_drawing_screen">DrawingScreen</string>
+    <string name="title_activity_prev_works_screen">PrevWorksScreen</string>
+    <string name="title_activity_alarm_screen">AlarmScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="paint">Paint</string>
+
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+
+
+</resources>
